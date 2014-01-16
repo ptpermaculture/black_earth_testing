@@ -7641,8 +7641,8 @@ td.visible-print {
 #home_centre {
   max-width: 34em;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 2em;
+  margin-right: 2em;
   margin-top: 2em;
 }
 
